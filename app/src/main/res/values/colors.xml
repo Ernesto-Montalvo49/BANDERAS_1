@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="Verde_Sudafrica">#007749 </color>
+    <color name="Azul_Sudafrica">#001489</color>
+    <color name="Amarillo_Sudafrica">#FFB81C</color>
 </resources>
