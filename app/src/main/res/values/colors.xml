@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-</resources>
+        <color name="Pixel_Fondo_Claro">#D5E8F1</color>
+        <color name="Pixel_Negro_Borde">#2D2342</color>
+        <color name="Pixel_Morado_Base">#8F6BB3</color>
+        <color name="Pixel_Morado_Luz">#C4A3E3</color>
+        <color name="Pixel_Morado_Sombra">#523B75</color>
+        <color name="Pixel_Verde_Tallo">#B5A642</color>
+    </resources>
