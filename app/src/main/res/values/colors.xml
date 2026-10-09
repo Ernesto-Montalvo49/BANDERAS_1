@@ -7,4 +7,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="azul_francia">#002395</color>
+    <color name="rojo_francia">#ED2939</color>
 </resources>
